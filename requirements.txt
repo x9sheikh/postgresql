@@ -58,5 +58,5 @@ SQLAlchemy-Utils==0.33.11
 subprocess32==3.2.7
 trollius==2.0.1
 ttystatus==0.38
-urllib3==1.22
+urllib3==1.26.5
 Werkzeug==0.14.1
